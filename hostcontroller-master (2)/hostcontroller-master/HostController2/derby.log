@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Feb 17 22:30:18 PST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-015a-4fe9-fb6e-000006a38530 
+on database directory C:\Users\Homero\Desktop\CSCD\Senior Project\gene folder\hostcontroller-master (2)\hostcontroller-master\HostController2\hcDatabase  with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Homero/Desktop/CSCD/Senior%20Project/gene%20folder/hostcontroller-master%20(2)/hostcontroller-master/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\Homero\Desktop\CSCD\Senior Project\gene folder\hostcontroller-master (2)\hostcontroller-master\HostController2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

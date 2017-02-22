@@ -1,0 +1,12 @@
+/HostController1/nbproject/private/
+/HostController1/build/
+/HostController1/dist/
+/HostController1/WinchCommonsTest12DataBase/
+# Compiled source files #
+#########################
+*.class
+
+*.jar
+## DB Files ##
+*.dat
+
